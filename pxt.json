@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-roversa-petbot": "github:marianaarboleda/extension-roversaigotchi#5a74445f2ce49863f1f86fa71da94a488b40af5d"
+        "pxt-roversa-petbot": "github:marianaarboleda/extension-roversaigotchi#v0.1.1"
     },
     "files": [
         "main.blocks",
